@@ -1,8 +1,8 @@
 # translate.js
 
-这是一个js库方便中文静态网站快速创建其英文版本
+这是一个js库，方便中文静态网站快速创建其英文版本。
 
-This is a JS library for Chinese static websites to quickly create its English version
+This is a JS library for Chinese static websites to quickly create its English version.
 
 版本：v1.1
 
