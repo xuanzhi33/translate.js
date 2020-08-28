@@ -4,9 +4,16 @@ by [xuanzhi33](http://www.xuanzhi33.top)
 
 ## 引入
 1. 请将本js在`</body>`前引入
-2. 在引入本js前需先引入jQuery库
-    - 如： `<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.0/dist/jquery.min.js"></script>`
-3. 您可下载本仓库中的translate.js后引入或者直接使用cdn引入
+2. 在引入本js前需先引入jQuery库，推荐使用cdn：
+
+```
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.0/dist/jquery.min.js"></script>
+```
+3. 您可下载本仓库中的translate.js后引入或者直接使用cdn引入：
+
+```
+<script src=https://cdn.jsdelivr.net/gh/xuanzhi33/translate.js@v1.1/translate.js"></script>
+```
 
 ## 用法：
 1. 在引入本js前需先引入jQuery库
