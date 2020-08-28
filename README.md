@@ -21,7 +21,7 @@ by [xuanzhi33](http://www.xuanzhi33.top)
 <script src="https://cdn.jsdelivr.net/gh/xuanzhi33/translate.js@v1.1/translate.js"></script>
 ```
 
-## 用法：
+## 用法
 1. 在引入本js前需先引入jQuery库
 2. 本js用于为中文网页创建英文版本
 3. 格式：`<element en="[英语内容]">[中文原文]</element>`
