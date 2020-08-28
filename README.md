@@ -18,7 +18,7 @@ by [xuanzhi33](http://www.xuanzhi33.top)
 3. 您可下载本仓库中的translate.js后引入或者直接使用cdn引入：
 
 ```
-<script src=https://cdn.jsdelivr.net/gh/xuanzhi33/translate.js@v1.1/translate.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/xuanzhi33/translate.js@v1.1/translate.js"></script>
 ```
 
 ## 用法：
