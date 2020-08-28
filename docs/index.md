@@ -1,6 +1,8 @@
 版本：v1.1
 
-by [xuanzhi33](http://www.xuanzhi33.top)
+by [xuanzhi33](https://github.com/xuanzhi33/)
+
+demo: [xuanzhi33.top](http://www.xuanzhi33.top)
 
 ## 引入
 1. 请在`</body>`前引入本js
