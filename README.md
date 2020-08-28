@@ -6,10 +6,12 @@ This is a JS library for Chinese static websites to quickly create its English v
 
 版本：v1.1
 
-by [xuanzhi33](http://www.xuanzhi33.top)
+by [xuanzhi33](https://github.com/xuanzhi33/)
+
+demo: [xuanzhi33.top](http://www.xuanzhi33.top)
 
 ## 引入
-1. 请将本js在`</body>`前引入
+1. 请在`</body>`前引入本js
 2. 在引入本js前需先引入jQuery库，推荐使用cdn：
 
 ```
