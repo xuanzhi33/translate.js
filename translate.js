@@ -1,16 +1,8 @@
-/*transtale.js
+/*
+transtale.js
+v1.1
 by xuanzhi33
-用法：
-1.在引入本js前需先引入jQuery
-2.本js用于为中文网页创建英文版本
-3.请将本js在</body>前引入
-4.格式：<element en="[英语内容]">[中文原文]</element>
-如 <p en="helloworld">你好世界</p>
-5.语言切换方式
-自动切换：系统语言为英文时访问该页面将自动显示为英文。
-手动切换：需在页面上添加class为transBtn的按钮，用户点击该按钮来切换语言。
 */
-
 function gc() {
     var name = "transLang=";
     var ca = document.cookie.split(';');
