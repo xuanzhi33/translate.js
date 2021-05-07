@@ -8,7 +8,7 @@ This is a JS library for Chinese static websites to quickly create its English v
 
 by [xuanzhi33](https://github.com/xuanzhi33/)
 
-demo: [xuanzhi33.top](http://www.xuanzhi33.top)
+demo: [www.xuanzhi33.cn](https://www.xuanzhi33.cn/)
 
 ## 引入
 1. 请在`</body>`前引入本js
