@@ -1,0 +1,11 @@
+{
+  "name": "@xuanzhi33/translate.js",
+  "version": "1.1.0",
+  "description": "This is a JS library for Chinese static websites to quickly create its English version.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "xuanzhi33 <xuanzhi33@qq.com>",
+  "license": "GPL-3.0-only"
+}
