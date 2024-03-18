@@ -5,6 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "main": "translate.js",
   "keywords": [],
   "author": "xuanzhi33 <xuanzhi33@qq.com>",
   "license": "GPL-3.0-only"
