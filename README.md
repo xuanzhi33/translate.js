@@ -4,23 +4,21 @@
 
 This is a JS library for Chinese static websites to quickly create its English version.
 
-版本：v1.1
+版本：v1.2
 
 by [xuanzhi33](https://github.com/xuanzhi33/)
-
-demo: [www.xuanzhi33.cn](https://www.xuanzhi33.cn/)
 
 ## 引入
 1. 请在`</body>`前引入本js
 2. 在引入本js前需先引入jQuery库，推荐使用cdn：
 
 ```
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.0/dist/jquery.min.js"></script>
+<script src="https://unpkg.com/jquery@3/dist/jquery.min.js"></script>
 ```
 3. 您可下载本仓库中的translate.js后引入或者直接使用cdn引入：
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/xuanzhi33/translate.js@v1.1/translate.js"></script>
+<script src="https://unpkg.com/@xuanzhi33/translate.js"></script>
 ```
 
 ## 用法
@@ -31,3 +29,4 @@ demo: [www.xuanzhi33.cn](https://www.xuanzhi33.cn/)
 4. 语言切换方式
     - 自动切换：系统语言为英文时访问该页面将自动显示为英文。
     - 手动切换：需在页面上添加class为transBtn的按钮，用户点击该按钮来切换语言。
+
