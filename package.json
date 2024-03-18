@@ -1,6 +1,6 @@
 {
   "name": "@xuanzhi33/translate.js",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "This is a JS library for Chinese static websites to quickly create its English version.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
